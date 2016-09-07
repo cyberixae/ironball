@@ -17,6 +17,7 @@
   "scripts": {
     "test": "gulp test"
   },
+  "repository": "cyberixae/ironball",
   "author": {
     "name": "Toni Ruottu",
     "email": "toni.ruottu@iki.fi",
