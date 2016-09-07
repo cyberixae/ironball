@@ -1,3 +1,5 @@
+# Ironball
+
 Ironball is a wrapper function that lets you use chained method calls with any object.
 
 ## How do I use it?
